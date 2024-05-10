@@ -9,6 +9,7 @@
   background-color: rgb(226, 232, 240);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  max-height: 100vh;
 }
 
 .navLink {
