@@ -6,12 +6,12 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
-  background-color: rgb(226, 232, 240);
+  background-color: rgb(238, 244, 253);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   max-height: 100vh;
 }
 
 .navLink {
-  @apply hover:bg-blue-100/50 transition-colors duration-300 px-4 py-3 rounded-md font-medium text-base text-slate-800;
+  @apply hover:bg-blue-300/50 transition-colors duration-300 px-4 py-3 rounded-md font-medium text-base text-white;
 }
